@@ -51,7 +51,7 @@ Siendo que para Mortal Kombat recomienda otras dos películas de Mortal Kombat, 
 Siendo que para Titanic recomienda 1900, una película basada en una historia de navegación e historia, también me pareció acertado.<br>
 Debo mencionar que su ordenamiento se da por el voto promedio (vote_average según nombre de columna) y no seguí la recomendación de justamente, recomendar películas con cierta correlación entre el voto promedio. Por ejemplo, Mortal Kombat recomienda una película de Mortal Kombat con valoración promedio 10 y otra con valoración promedio 3,8.<br>
 # A disfrutar la mejor recomendación
-![Ejemplo de Imagen](publico3.jpg)
+![Ejemplo de Imagen](src/publico3.jpg)
 A fin de cuentas, que algoritmo acierta con sus 5 recomendaciones? Con que una sea viable, el resto será disfrutar.
 
 # <u> Saludos y Agradecimiento</u>
